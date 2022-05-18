@@ -65,8 +65,8 @@
 #define USBD_VID     1155
 #define USBD_LANGID_STRING     1033
 #define USBD_MANUFACTURER_STRING     "STMicroelectronics"
-#define USBD_PID_FS     22336
-#define USBD_PRODUCT_STRING_FS     "Neuronix(r) PCM5102 DAC"
+#define USBD_PID_FS     52128
+#define USBD_PRODUCT_STRING_FS     "Neuronix(R) PCM5102 Speacker"
 #define USBD_CONFIGURATION_STRING_FS     "AUDIO Config"
 #define USBD_INTERFACE_STRING_FS     "AUDIO Interface"
 

@@ -57,20 +57,8 @@ void Error_Handler(void);
 /* USER CODE END EFP */
 
 /* Private defines -----------------------------------------------------------*/
-#define LINK_LED_Pin GPIO_PIN_13
-#define LINK_LED_GPIO_Port GPIOC
-#define MUTE_Pin GPIO_PIN_0
-#define MUTE_GPIO_Port GPIOA
-#define LIVE_LED_Pin GPIO_PIN_3
-#define LIVE_LED_GPIO_Port GPIOB
-#define DMP_Pin GPIO_PIN_6
-#define DMP_GPIO_Port GPIOB
-#define FLT_Pin GPIO_PIN_7
-#define FLT_GPIO_Port GPIOB
-#define FMT_Pin GPIO_PIN_8
-#define FMT_GPIO_Port GPIOB
-#define XMT_Pin GPIO_PIN_9
-#define XMT_GPIO_Port GPIOB
+#define LED_Pin GPIO_PIN_13
+#define LED_GPIO_Port GPIOC
 /* USER CODE BEGIN Private defines */
 
 /* USER CODE END Private defines */
